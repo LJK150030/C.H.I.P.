@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Wall
+  - Die
+  - AbilityLibrary
+  - SlottingMachine
+  - Music
+  - PlayButton
+  - EjectButton
+  - PacketReader
+  - Breakable
+  - SoundFX
+  - TargetPlayer
+  - Regions
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1378195073
+    locked: 0
+  - name: BackgroundWall
+    uniqueID: 3194963053
+    locked: 0
+  - name: Obstacle
+    uniqueID: 750347317
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 1891410893
+    locked: 0
